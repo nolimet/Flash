@@ -1,0 +1,172 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="turtle/Turtle" itemID="50af50a7-00000036" lastModified="1353669642" lastUniqueIdentifier="17">
+  <timeline>
+    <DOMTimeline name="Turtle">
+      <layers>
+        <DOMLayer name="Head" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/Head">
+                  <matrix>
+                    <Matrix tx="134.3" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/Head" selected="true">
+                  <matrix>
+                    <Matrix tx="130" ty="-10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/Head">
+                  <matrix>
+                    <Matrix tx="130" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LegBack" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/LegFront" centerPoint3DX="109.85" centerPoint3DY="100.55">
+                  <matrix>
+                    <Matrix tx="110" ty="95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/LegFront" centerPoint3DX="142.15" centerPoint3DY="87.35">
+                  <matrix>
+                    <Matrix a="0.707107543945313" b="-0.70709228515625" c="0.70709228515625" d="0.707107543945313" tx="138.25" ty="83.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/LegFront" centerPoint3DX="109.9" centerPoint3DY="99.65">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938" tx="110" ty="94.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-39.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Legfront" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/LegFront" centerPoint3DX="-102.7" centerPoint3DY="99.95">
+                  <matrix>
+                    <Matrix tx="-102.7" ty="94.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/LegFront" centerPoint3DX="-134.05" centerPoint3DY="86.3">
+                  <matrix>
+                    <Matrix a="0.707107543945313" b="0.70709228515625" c="-0.70709228515625" d="0.707107543945313" tx="-131" ty="83.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/LegFront" centerPoint3DX="-101.7" centerPoint3DY="98.7">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938" tx="-102.65" ty="94.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Eye" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shell" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/Shell" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/Shell" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="turtle/Shell" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

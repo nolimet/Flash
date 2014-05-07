@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Player1" itemID="50b62c54-00000021" linkageExportForAS="true" linkageClassName="Player1art" lastModified="1355825454">
+  <timeline>
+    <DOMTimeline name="Player1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="3.66900634765625" d="3.66900634765625" tx="-1.7" ty="-8.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!114 -57[158 -13 158 48!158 48[158 109 114 152!114 152[71 196 10 196!10 196[-51 196 -95 152!-95 152[-138 109 -138 48!-138 48[-138 -13 -95 -57!-95 -57[-51 -100 10 -100!10 -100[71 -100 114 -57"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="3.66900634765625" d="3.66900634765625" tx="0.55" ty="-1.6"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="square" weight="7.75">
+                        <fill>
+                          <SolidColor color="#AFB0AF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!34 -71|271 -71"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

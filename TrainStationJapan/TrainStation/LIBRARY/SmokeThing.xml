@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="SmokeThing" itemID="50dd8a3e-00000097" lastModified="1356696181" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="SmokeThing">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!970 3839|-30 3839!-30 3839|-30 39!-30 39|970 39!970 39|970 3839"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#AFB0AF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!1020 1114|1100 1114"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Smoke" centerPoint3DX="25" centerPoint3DY="15.7">
+                  <matrix>
+                    <Matrix tx="22.85" ty="-6.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.15" y="22.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,46 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" gridSnapTo="true" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <symbols>
+          <Include href="Bullet.xml" itemID="50ed84af-00000015" lastModified="1357743356"/>
+          <Include href="Cover.xml" itemID="50f6cc89-00000073" lastModified="1358351545"/>
+          <Include href="Cube.xml" loadImmediate="false" itemID="50b62547-00000016" lastModified="1356536711"/>
+          <Include href="enemy1.xml" itemID="50bf5d70-0000005b" lastModified="1355825438"/>
+          <Include href="Player1.xml" itemID="50b62c54-00000021" lastModified="1355825454"/>
+          <Include href="Wall.xml" itemID="50db1b87-00000035" lastModified="1356536763"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="3165" publishTime="1359540583"/>
+          <PublishItem publishSize="3164" publishTime="1359453168"/>
+          <PublishItem publishSize="3163" publishTime="1359453133"/>
+          <PublishItem publishSize="937" publishTime="1359453011"/>
+          <PublishItem publishSize="937" publishTime="1359452973"/>
+          <PublishItem publishSize="938" publishTime="1359452896"/>
+          <PublishItem publishSize="938" publishTime="1359452855"/>
+          <PublishItem publishSize="938" publishTime="1359451765"/>
+          <PublishItem publishSize="937" publishTime="1359451715"/>
+          <PublishItem publishSize="937" publishTime="1359451683"/>
+          <PublishItem publishSize="938" publishTime="1359451646"/>
+          <PublishItem publishSize="937" publishTime="1359451570"/>
+          <PublishItem publishSize="928" publishTime="1359451558"/>
+          <PublishItem publishSize="930" publishTime="1359449053"/>
+          <PublishItem publishSize="930" publishTime="1359449025"/>
+          <PublishItem publishSize="929" publishTime="1358851043"/>
+          <PublishItem publishSize="888" publishTime="1358349640"/>
+          <PublishItem publishSize="889" publishTime="1358349599"/>
+          <PublishItem publishSize="889" publishTime="1358349483"/>
+          <PublishItem publishSize="883" publishTime="1358349466"/>
+     </publishHistory>
+</DOMDocument>

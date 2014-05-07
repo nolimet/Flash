@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Slider" itemID="50cb0431-00000065" lastModified="1355482703">
+  <timeline>
+    <DOMTimeline name="Slider">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Imports/302117.jpg">
+                  <matrix>
+                    <Matrix a="0.342681884765625" d="0.342681884765625" tx="-2667.5" ty="-184.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="959.95" y="540"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Imports/169639-1920x1080.jpg">
+                  <matrix>
+                    <Matrix a="0.343795776367188" d="0.343795776367188" tx="-2010.5" ty="-184.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="960" y="540"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Imports/anime-desktopia-archives-bleach-wallpaper-1080x1920.jpg">
+                  <matrix>
+                    <Matrix a="0.342681884765625" d="0.342681884765625" tx="-1352.4" ty="-186.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="959.95" y="540"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Imports/animepaper-wallpapers-bleach-rukawa11-1.jpg">
+                  <matrix>
+                    <Matrix a="0.342880249023438" d="0.342880249023438" tx="-701.25" ty="-186.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="959.95" y="539.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Imports/bleach2.jpg">
+                  <matrix>
+                    <Matrix a="0.34283447265625" d="0.34283447265625" tx="-43.85" ty="-186.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="959.95" y="540.05"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Imports/Bleach-bleach-7c905e663a-1920x1080.jpg">
+                  <matrix>
+                    <Matrix a="0.340789794921875" d="0.340789794921875" tx="612.3" ty="-186.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="960" y="540.05"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="Imports/302117.jpg copy">
+                  <matrix>
+                    <Matrix a="0.341018676757813" d="0.341018676757813" tx="1266.6" ty="-186.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="959.9" y="540.15"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

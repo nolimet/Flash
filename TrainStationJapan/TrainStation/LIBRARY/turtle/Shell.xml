@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="turtle/Shell" itemID="50af57f9-0000005d" symbolType="graphic" lastModified="1353668601">
+  <timeline>
+    <DOMTimeline name="Shell">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#009900"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1768 -597[2500 135 2500 1171!2500 1171[2500 1251 2496 1330!2496 1330|-2495 1330!-2495 1330[-2500 1251 -2500 1171!-2500 1171[-2500 135 -1768 -597!-1768 -597[#FFF991.9A #FFFD31.66 -1516.5 -820!-1516.5 -820[#FFFCA0.1A -1329 0 -1329!0 -1329
+[1036 -1329 1768 -597"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

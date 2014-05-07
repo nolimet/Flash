@@ -1,0 +1,334 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" gridSnapTo="true" viewAngle3D="100.925968316201" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <folders>
+          <DOMFolderItem name="Imports" itemID="50cb0614-0000009d" isExpanded="true"/>
+          <DOMFolderItem name="turtle" itemID="50c1d49e-000000cb"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="Imports/169639-1920x1080.jpg" itemID="50d316b0-000000b7" sourceExternalFilepath="../TrainStation/LIBRARY/Imports/169639-1920x1080.jpg" sourceLastImported="1356010990" externalFileCRC32="2948085085" externalFileSize="884906" quality="50" href="Imports/169639-1920x1080.jpg" bitmapDataHRef="M 3 1355481916.dat" frameRight="38400" frameBottom="21600" isJPEG="true"/>
+          <DOMBitmapItem name="Imports/302117.jpg" itemID="50d316b1-000000b8" sourceExternalFilepath="../TrainStation/LIBRARY/Imports/302117.jpg" sourceLastImported="1356010993" externalFileCRC32="3325584225" externalFileSize="1420079" quality="50" href="Imports/302117.jpg" bitmapDataHRef="M 1 1355481851.dat" frameRight="38400" frameBottom="21600" isJPEG="true"/>
+          <DOMBitmapItem name="Imports/302117.jpg copy" itemID="50d316b3-000000b9" sourceExternalFilepath="../TrainStation/LIBRARY/Imports/302117.jpg copy" sourceLastImported="1356010997" externalFileCRC32="3325584225" externalFileSize="1420079" quality="50" href="Imports/302117.jpg copy" bitmapDataHRef="M 8 1355482407.dat" frameRight="38400" frameBottom="21600" isJPEG="true"/>
+          <DOMBitmapItem name="Imports/anime-desktopia-archives-bleach-wallpaper-1080x1920.jpg" itemID="50d316b3-000000ba" sourceExternalFilepath="../TrainStation/LIBRARY/Imports/anime-desktopia-archives-bleach-wallpaper-1080x1920.jpg" sourceLastImported="1356010998" externalFileCRC32="812875338" externalFileSize="140395" quality="50" href="Imports/anime-desktopia-archives-bleach-wallpaper-1080x1920.jpg" bitmapDataHRef="M 4 1355481950.dat" frameRight="38400" frameBottom="21600" isJPEG="true"/>
+          <DOMBitmapItem name="Imports/animepaper-wallpapers-bleach-rukawa11-1.jpg" itemID="50d316b4-000000bb" sourceExternalFilepath="../TrainStation/LIBRARY/Imports/animepaper-wallpapers-bleach-rukawa11-1.jpg" sourceLastImported="1356011002" externalFileCRC32="2838156371" externalFileSize="330354" quality="50" href="Imports/animepaper-wallpapers-bleach-rukawa11-1.jpg" bitmapDataHRef="M 5 1355481978.dat" frameRight="38400" frameBottom="21600" isJPEG="true"/>
+          <DOMBitmapItem name="Imports/bleach2.jpg" itemID="50d316b4-000000bc" sourceExternalFilepath="../TrainStation/LIBRARY/Imports/bleach2.jpg" sourceLastImported="1356011004" externalFileCRC32="940881224" externalFileSize="270920" quality="50" href="Imports/bleach2.jpg" bitmapDataHRef="M 6 1355482038.dat" frameRight="38400" frameBottom="21600" isJPEG="true"/>
+          <DOMBitmapItem name="Imports/Bleach-bleach-7c905e663a-1920x1080.jpg" itemID="50d316b5-000000bd" sourceExternalFilepath="../TrainStation/LIBRARY/Imports/Bleach-bleach-7c905e663a-1920x1080.jpg" sourceLastImported="1356011013" externalFileCRC32="85511881" externalFileSize="120909" quality="50" href="Imports/Bleach-bleach-7c905e663a-1920x1080.jpg" bitmapDataHRef="M 7 1355482076.dat" frameRight="38400" frameBottom="21600" isJPEG="true"/>
+     </media>
+     <symbols>
+          <Include href="Base_light.xml" loadImmediate="false" itemID="50af4cef-00000017" lastModified="1353666619"/>
+          <Include href="Base_light_green.xml" loadImmediate="false" itemID="50c1d2ac-0000007e" lastModified="1354879783"/>
+          <Include href="Base_light_Red.xml" loadImmediate="false" itemID="50c1d2a5-00000079" lastModified="1354879796"/>
+          <Include href="Billboard.xml" loadImmediate="false" itemID="50cb02a6-00000047" lastModified="1355485081"/>
+          <Include href="Glass.xml" loadImmediate="false" itemID="509cdfec-00000016" lastModified="1352459154"/>
+          <Include href="Lightbol.xml" loadImmediate="false" itemID="50af4e33-0000001f" lastModified="1353666497"/>
+          <Include href="Lightbol_green.xml" loadImmediate="false" itemID="50c1d2ba-00000082" lastModified="1354879752"/>
+          <Include href="Lightbol_red.xml" loadImmediate="false" itemID="50c1d2c4-00000087" lastModified="1354879763"/>
+          <Include href="NaamBoord.xml" loadImmediate="false" itemID="50d31874-000000c1" lastModified="1356011636"/>
+          <Include href="Slider.xml" loadImmediate="false" itemID="50cb0431-00000065" lastModified="1355482703"/>
+          <Include href="Smoke.xml" loadImmediate="false" itemID="50c1cfa2-00000052" lastModified="1356011076"/>
+          <Include href="SmokeThing.xml" loadImmediate="false" itemID="50dd8a3e-00000097" lastModified="1356696181"/>
+          <Include href="StartTrain.xml" itemIcon="0" itemID="50dd8b5b-000000ac" lastModified="1356697554"/>
+          <Include href="Symbol 1.xml" loadImmediate="false" itemID="50dd8fd2-000000cf" lastModified="1356697850"/>
+          <Include href="Train.xml" loadImmediate="false" itemID="509cde7e-00000011" lastModified="1354878705"/>
+          <Include href="turtle/eye.xml" loadImmediate="false" itemID="50af57e7-0000005c" lastModified="1353669626"/>
+          <Include href="turtle/Head.xml" loadImmediate="false" itemID="50af544b-00000052" lastModified="1353669647"/>
+          <Include href="turtle/LegFront.xml" loadImmediate="false" itemID="50af50ff-00000038" lastModified="1353667487"/>
+          <Include href="turtle/Shell.xml" itemIcon="1" loadImmediate="false" itemID="50af57f9-0000005d" lastModified="1353668601"/>
+          <Include href="turtle/Turtle.xml" loadImmediate="false" itemID="50af50a7-00000036" lastModified="1353669642"/>
+          <Include href="turtle/TurtleMove.xml" loadImmediate="false" itemID="50dd8a02-0000008c" lastModified="1356696098"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="as3" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="92" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[import flash.events.Event;
+
+TrainButton.addEventListener(MouseEvent.CLICK,StartTrain);
+
+function StartTrain(event:Event):void{
+	trace("train moves!");
+	gotoAndPlay("TrainGo");
+}]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="StartTrain" name="TrainButton" selected="true" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="80.5" ty="323.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="labels" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="92" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="turtle" color="#FF4FFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="92" keyMode="15872">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="turtle/TurtleMove" centerPoint3DX="-170" centerPoint3DY="575.95">
+                                             <matrix>
+                                                  <Matrix tx="476.95" ty="580.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-646.7" y="-4.75"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Lamp" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="32" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Base_light_Red" centerPoint3DX="348.95" centerPoint3DY="150">
+                                             <matrix>
+                                                  <Matrix a="0.158218383789063" d="0.158218383789063" tx="351.3" ty="150"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-14.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="32" duration="19" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Base_light_green" centerPoint3DX="348.4" centerPoint3DY="150">
+                                             <matrix>
+                                                  <Matrix a="0.159561157226563" d="0.159561157226563" tx="351.2" ty="150"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-17.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="51" duration="41" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Base_light_Red" centerPoint3DX="348.95" centerPoint3DY="150">
+                                             <matrix>
+                                                  <Matrix a="0.158111572265625" d="0.158111572265625" tx="351.3" ty="150"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-14.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Station" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="91" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#666666"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!25600 4800|0 4800!0 4800|0 3400!0 3400|25600 3400!25600 3400|25600 4800"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="91" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#666666"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!25600 4800|0 4800!0 4800|0 3400!0 3400|25600 3400!25600 3400|25600 4800"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Train" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="17" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Train" centerPoint3DX="-160" centerPoint3DY="135.1">
+                                             <matrix>
+                                                  <Matrix a="0.487960815429688" d="0.487960815429688" tx="-183.8" ty="142"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="48.75" y="-14.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" name="TrainStop" labelType="name" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Train" centerPoint3DX="176.15" centerPoint3DY="135.1">
+                                             <matrix>
+                                                  <Matrix a="0.487960815429688" d="0.487960815429688" tx="152.35" ty="142"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="48.75" y="-14.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" duration="16" name="TrainGo" labelType="name" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Train" centerPoint3DX="176.15" centerPoint3DY="135.1">
+                                             <matrix>
+                                                  <Matrix a="0.487960815429688" d="0.487960815429688" tx="152.35" ty="142"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="48.75" y="-14.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="34" duration="19" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Train" centerPoint3DX="176.15" centerPoint3DY="135.1">
+                                             <matrix>
+                                                  <Matrix a="0.487960815429688" d="0.487960815429688" tx="152.35" ty="142"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="48.75" y="-14.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="53" duration="16" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Train" centerPoint3DX="480.2" centerPoint3DY="135.1">
+                                             <matrix>
+                                                  <Matrix a="0.487960815429688" d="0.487960815429688" tx="456.4" ty="142"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="48.75" y="-14.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="69" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Train" centerPoint3DX="872.1" centerPoint3DY="135.1">
+                                             <matrix>
+                                                  <Matrix a="0.487960815429688" d="0.487960815429688" tx="848.3" ty="142"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="48.75" y="-14.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="82" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Train" centerPoint3DX="1460" centerPoint3DY="135.1">
+                                             <matrix>
+                                                  <Matrix a="0.487960815429688" d="0.487960815429688" tx="1436.2" ty="142"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="48.75" y="-14.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Station naam" color="#FF4FFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="92" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="NaamBoord" centerPoint3DX="555.5" centerPoint3DY="150.9">
+                                             <matrix>
+                                                  <Matrix a="0.756027221679688" d="0.756027221679688" tx="555.5" ty="150.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="chinie" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="92" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="SmokeThing" centerPoint3DX="1015.85" centerPoint3DY="620">
+                                             <matrix>
+                                                  <Matrix tx="988.35" ty="519.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="27.75" y="100.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="92" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Billboard" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="92" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Billboard" centerPoint3DX="-127.2" centerPoint3DY="98.55">
+                                             <matrix>
+                                                  <Matrix a="0.362213134765625" d="0.362213134765625" tx="1134.55" ty="86.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1923.45" y="54.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="4618006" publishTime="1356697863"/>
+          <PublishItem publishSize="4701878" publishTime="1356697785"/>
+          <PublishItem publishSize="4701805" publishTime="1356697663"/>
+          <PublishItem publishSize="4617821" publishTime="1356696780"/>
+          <PublishItem publishSize="4617247" publishTime="1356696724"/>
+          <PublishItem publishSize="4617250" publishTime="1356696655"/>
+          <PublishItem publishSize="4617246" publishTime="1356696612"/>
+          <PublishItem publishSize="4617248" publishTime="1356696586"/>
+          <PublishItem publishSize="4625253" publishTime="1356011929"/>
+          <PublishItem publishSize="4622846" publishTime="1356011296"/>
+          <PublishItem publishSize="4124309" publishTime="1356010607"/>
+          <PublishItem publishSize="4172868" publishTime="1356010563"/>
+          <PublishItem publishSize="4127435" publishTime="1356010489"/>
+          <PublishItem publishSize="4124295" publishTime="1356009717"/>
+          <PublishItem publishSize="3726" publishTime="1355479332"/>
+          <PublishItem publishSize="3202" publishTime="1355479278"/>
+          <PublishItem publishSize="3216" publishTime="1354880617"/>
+          <PublishItem publishSize="3226" publishTime="1354880412"/>
+          <PublishItem publishSize="3228" publishTime="1354880374"/>
+          <PublishItem publishSize="3229" publishTime="1354880350"/>
+     </publishHistory>
+</DOMDocument>

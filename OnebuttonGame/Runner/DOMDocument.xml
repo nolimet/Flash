@@ -1,0 +1,48 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" gridSnapTo="true" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="3" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <symbols>
+          <Include href="Ground1.xml" loadImmediate="false" itemID="512cae5c-00000016" lastModified="1361882716"/>
+          <Include href="PlayerArt.xml" itemID="511e1583-0000002d" lastModified="1360926107"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Ground1" selected="true" centerPoint3DX="515" centerPoint3DY="280">
+                                             <matrix>
+                                                  <Matrix tx="515" ty="280"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="2255" publishTime="1361882728"/>
+          <PublishItem publishSize="1495" publishTime="1360927891"/>
+          <PublishItem publishSize="1495" publishTime="1360927856"/>
+          <PublishItem publishSize="1499" publishTime="1360927800"/>
+          <PublishItem publishSize="639" publishTime="1360927749"/>
+          <PublishItem publishSize="640" publishTime="1360927730"/>
+          <PublishItem publishSize="640" publishTime="1360927663"/>
+          <PublishItem publishSize="1480" publishTime="1360927435"/>
+          <PublishItem publishSize="1480" publishTime="1360927420"/>
+          <PublishItem publishSize="1439" publishTime="1360926618"/>
+          <PublishItem publishSize="1431" publishTime="1360926558"/>
+          <PublishItem publishSize="633" publishTime="1360926484"/>
+          <PublishItem publishSize="633" publishTime="1360926404"/>
+          <PublishItem publishSize="632" publishTime="1360926327"/>
+          <PublishItem publishSize="632" publishTime="1360926275"/>
+          <PublishItem publishSize="1036" publishTime="1360925480"/>
+          <PublishItem publishSize="560" publishTime="1360925374"/>
+     </publishHistory>
+</DOMDocument>

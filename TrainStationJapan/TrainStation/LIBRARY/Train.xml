@@ -1,0 +1,126 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Train" itemID="509cde7e-00000011" lastModified="1354878705" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="Train">
+      <layers>
+        <DOMLayer name="Windows" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Train" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!5044 -578|6995 458!6995 458|6995 1258!6995 1258|-4956 1222!-4956 1222|-4956 -1778!-4956 -1778|2844 -1778!2844 -1778|5044 -578"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Glass" centerPoint3DX="176.65" centerPoint3DY="-70">
+                  <matrix>
+                    <Matrix a="0.875" d="0.666671752929688" tx="167.9" ty="-56.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="-20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#AFB0AF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-3482 -1600|-3482 -282!-3482 -282|-4800 -282!-4800 -282|-4800 -1600!-4800 -1600|-3482 -1600"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="77.05"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#AFB0AF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-3482 -1600|-3482 -282!-3482 -282|-4800 -282!-4800 -282|-4800 -1600!-4800 -1600|-3482 -1600"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="154.1"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#AFB0AF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-3482 -1600|-3482 -282!-3482 -282|-4800 -282!-4800 -282|-4800 -1600!-4800 -1600|-3482 -1600"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="232.15"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#AFB0AF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-3482 -1600|-3482 -282!-3482 -282|-4800 -282!-4800 -282|-4800 -1600!-4800 -1600|-3482 -1600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

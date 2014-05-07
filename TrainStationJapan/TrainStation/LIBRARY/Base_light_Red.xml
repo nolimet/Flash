@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Base_light_Red" itemID="50c1d2a5-00000079" lastModified="1354879796" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="Base_light_Red">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-100 400|-1100 400!-1100 400|-1100 -3000!-1100 -3000|1100 -3000!1100 -3000|1100 400!1100 400|300 400"/>
+                    <Edge fillStyle1="2" edges="!300 400|300 3000!300 3000|-100 3000!-100 3000|-100 400"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!300 400|-100 400"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Lightbol_red" selected="true" centerPoint3DX="-64.7" centerPoint3DY="-63.7">
+                  <matrix>
+                    <Matrix tx="-64.7" ty="-61.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

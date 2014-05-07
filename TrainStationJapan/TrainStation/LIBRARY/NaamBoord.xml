@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="NaamBoord" itemID="50d31874-000000c1" lastModified="1356011636">
+  <timeline>
+    <DOMTimeline name="NaamBoord">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#AFB0AF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1414 -464S3|1014 -464"/>
+                    <Edge fillStyle0="1" edges="!1014 -464S1|1014 1664!1014 1664|1414 1664!1414 1664|1414 -464"/>
+                    <Edge fillStyle1="2" edges="!-1386 -464S2|-1700 -464!-1700 -464|-1700 -1664!-1700 -1664|1701 -1664!1701 -1664|1701 -464!1701 -464|1414 -464"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!-986 -464S3|-1386 -464"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-1386 -464S5|-1386 1665!-1386 1665|-986 1665!-986 1665|-986 -464"/>
+                    <Edge fillStyle1="2" edges="!1014 -464S2|-986 -464"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="125.9" height="23.15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-67.7" ty="-65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Derpy Town</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="19" bitmapSize="380" face="OldEnglishTextMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
